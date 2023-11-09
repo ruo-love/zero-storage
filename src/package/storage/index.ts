@@ -1,7 +1,7 @@
 import { Local, StorageData } from "@/index";
 import { decrypto, encrypto } from "../Aes/index";
 
-//入参本地存储类型
+//入参本地存储的前缀，是否加密，加密盐
 
 export function createLocalStorage<T extends Local>(
   prefix: string = "local@",

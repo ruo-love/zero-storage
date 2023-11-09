@@ -1258,10 +1258,10 @@
     "@volar/typescript" "~1.10.0"
     "@vue/language-core" "1.8.15"
 
-"@zrcode/storage@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.npmmirror.com/@zrcode/storage/-/storage-0.0.1.tgz"
-  integrity sha512-wAsYrUvIAwWDJxko7egXFlssVUm0z3gunRlvMbK+T/F90Cc5mPKIYalKeoqM9mc+0H2E/tQCqfJZ24K9s+NE0g==
+"@zrcode/storage@0.0.5":
+  version "0.0.5"
+  resolved "https://registry.npmmirror.com/@zrcode/storage/-/storage-0.0.5.tgz#3ee7f0a69eb40216e885ac8715720d33da75723a"
+  integrity sha512-pDl13kgmQi6ZjXqfTs76eVVCsoopt3gM8gCX2SoR+rSYIEr/HCGf26e/JNpstWmXqbMHbfrKijRyMa+2wic6kw==
   dependencies:
     crypto-js "^4.2.0"
 

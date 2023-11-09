@@ -1,6 +1,6 @@
 {
   "name": "@zrcode/storage",
-  "version": "0.0.4",
+  "version": "0.0.7",
   "module": "./dist/storage.es.js",
   "main": "./dist/storage.umd.js",
   "exports": {
@@ -9,7 +9,7 @@
       "require": "./dist/storage.umd.cjs"
     }
   },
-  "types": "dist/index.d.ts",
+  "types": "./dist/index.d.ts",
   "keywords": [
     "@zrcode/storage"
   ],
@@ -27,7 +27,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@zrcode/storage": "^0.0.1",
+
     "crypto-js": "^4.2.0"
   },
   "devDependencies": {
