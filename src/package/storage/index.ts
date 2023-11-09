@@ -1,13 +1,8 @@
+import { Local, StorageData } from "@/index";
 import { decrypto, encrypto } from "../Aes/index";
 
 //入参本地存储类型
-interface StorageData<T> {
-  value: T;
-  expire: number | null;
-}
-interface Local {
-  [key: string]: any;
-}
+
 export function createLocalStorage<T extends Local>(
   prefix: string = "local@",
   encrypt: boolean = false,

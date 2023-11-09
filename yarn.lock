@@ -1105,6 +1105,11 @@
     estree-walker "^2.0.2"
     picomatch "^2.3.1"
 
+"@types/crypto-js@^4.2.1":
+  version "4.2.1"
+  resolved "https://registry.npmmirror.com/@types/crypto-js/-/crypto-js-4.2.1.tgz#480edd76991a63050cb88db1a8840758c55a7135"
+  integrity sha512-FSPGd9+OcSok3RsM0UZ/9fcvMOXJ1ENE/ZbLfOPlBWj7BgXtEAM8VYfTtT760GiLbQIMoVozwVuisjvsVwqYWw==
+
 "@types/estree@^1.0.0":
   version "1.0.4"
   resolved "https://registry.npmmirror.com/@types/estree/-/estree-1.0.4.tgz"
@@ -1255,7 +1260,7 @@
 
 "@zrcode/storage@^0.0.1":
   version "0.0.1"
-  resolved "https://registry.npmmirror.com/@zrcode/storage/-/storage-0.0.1.tgz#9f281ce7c0c5cf2824a9cfb73e8fa3819ca25480"
+  resolved "https://registry.npmmirror.com/@zrcode/storage/-/storage-0.0.1.tgz"
   integrity sha512-wAsYrUvIAwWDJxko7egXFlssVUm0z3gunRlvMbK+T/F90Cc5mPKIYalKeoqM9mc+0H2E/tQCqfJZ24K9s+NE0g==
   dependencies:
     crypto-js "^4.2.0"

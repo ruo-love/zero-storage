@@ -1,6 +1,6 @@
 {
   "name": "@zrcode/storage",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "module": "./dist/storage.es.js",
   "main": "./dist/storage.umd.js",
   "exports": {
@@ -36,6 +36,7 @@
     "@babel/preset-env": "^7.23.2",
     "@babel/runtime": "^7.23.2",
     "@rollup/plugin-babel": "^6.0.4",
+    "@types/crypto-js": "^4.2.1",
     "@types/node": "^20.7.0",
     "@vitejs/plugin-vue": "^4.2.3",
     "typescript": "^5.0.2",
